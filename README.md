@@ -53,3 +53,10 @@ provide input on what data and visualizations are most useful for their
 needs.
 
 
+DATA ACQUISITION:-
+![Screenshot 2024-06-12 223942](https://github.com/rutbala/City-of-Manhattan-KS-Housing-Dashboard/assets/165860969/6010b552-741b-40db-af4a-f245c91fc8c4)
+
+
+
+
+
