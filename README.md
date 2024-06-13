@@ -55,7 +55,7 @@ needs.
 
 DATA ACQUISITION:-
 
-![Screenshot 2024-06-12 223942](https://github.com/rutbala/City-of-Manhattan-KS-Housing-Dashboard/assets/165860969/6010b552-741b-40db-af4a-f245c91fc8c4)
+![Screenshot 2024-06-12 223942](https://github.com/rutbala/City-of-Manhattan-KS-Housing-Dashboard/assets/165860969/2ab53658-4bce-4fc1-b5c9-4f29d36304b1)
 
 
 
